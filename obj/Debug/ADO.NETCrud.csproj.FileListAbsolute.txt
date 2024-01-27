@@ -1,0 +1,7 @@
+D:\C#\ADO.NETCrud\bin\Debug\ADO.NETCrud.exe.config
+D:\C#\ADO.NETCrud\bin\Debug\ADO.NETCrud.exe
+D:\C#\ADO.NETCrud\bin\Debug\ADO.NETCrud.pdb
+D:\C#\ADO.NETCrud\obj\Debug\ADO.NETCrud.csproj.AssemblyReference.cache
+D:\C#\ADO.NETCrud\obj\Debug\ADO.NETCrud.csproj.CoreCompileInputs.cache
+D:\C#\ADO.NETCrud\obj\Debug\ADO.NETCrud.exe
+D:\C#\ADO.NETCrud\obj\Debug\ADO.NETCrud.pdb
