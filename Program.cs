@@ -118,7 +118,7 @@ namespace ADO.NETCrud
             }
             catch (Exception e)
             {
-                Console.WriteLine("Something went wrong"+e.Message);
+                Console.WriteLine("Something went wrong" + e.Message);
             }
            
         }
